@@ -1,0 +1,100 @@
+body{
+    background: url(../IMG/dp.jpg);    
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.login{
+    padding: 20px;
+    background-color: rgba(217, 222, 220, 0.534);
+    box-shadow: 10px 10px 10px; 
+    border-radius: 2%;
+    max-width: 25%;
+    min-width: 25%;  
+    /* position:absolute;  */
+    
+
+}
+.login input{
+    padding: 5px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.login label{
+    font-weight: 400;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+#sec{
+    margin-left: 40%;
+}
+#sec nav{
+    margin: 10px;
+    margin-left: 10%;
+}
+button{
+    border-radius: 10px;
+    background-color: blueviolet;
+}
+
+.table{
+    width: 60%;
+    border-collapse: collapse;
+    padding: 25px;
+}
+table{
+    background-color: wheat;
+}
+.content p{
+    color: white;
+    text-align: center; 
+}
+header{
+    background-color: rgb(250, 250, 250);
+}
+header a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+header li{
+    list-style: none;
+    display: inline;
+    justify-content: space-evenly;
+    text-decoration: none;
+    justify-content: space-evenly;
+    text-align: center;
+}
+main{
+    height: 100vh;
+    /* text-align: center; */
+}
+.sec1{
+    color: white;
+}
+.sec1 h2{
+    text-align: center;
+}
+.sec1 section{
+    width: 50%;
+    margin: 0;
+    justify-content: center;
+    margin-left: 25%;
+}
+.footer{
+  text-align: center;
+  background-color: aliceblue;
+  padding:0px;
+  margin: auto;
+}
+.divide{
+    color: white;
+    background-color: #030303;
+}
+main p{
+    color: white;
+}
+.tab{
+    margin-left: 20%;
+    padding-top: 20px;
+}
